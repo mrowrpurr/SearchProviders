@@ -18,6 +18,7 @@
         <Import>@ImportsFolder\SKSE64\Scripts\Source</Import>
         <Import>@ImportsFolder\JContainers\Scripts\Source</Import>
         <Import>@ImportsFolder\ConsoleUtil\Scripts\Source</Import>
+        <Import>@ImportsFolder\PapyrusExtender\Scripts\Source</Import>
 
         <Import>@ModsFolder\ConsoleSearch\Scripts\Source</Import>
         <Import>@ModsFolder\Search Core\Scripts\Source</Import>
